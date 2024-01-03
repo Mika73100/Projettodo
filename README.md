@@ -1,5 +1,5 @@
 <div align="center"><br><br>
-        <h2>🪛 SWIFT "HELLO WORLD" ( projet en cours de réalisation )</h2>
+        <h2>🪛 SWIFT DU "HELLO WORLD" A UNE TODOLIST( projet en cours de réalisation )</h2>
 
 Dans cet exercice, j'ai utilisé la documentation officielle pour l'installation de Swift sur Windows. 
 J'ai également suivi le tutoriel proposé par Swift pour afficher un "Hello World". 
